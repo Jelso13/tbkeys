@@ -5,7 +5,7 @@
       "id": "tbkeys@addons.thunderbird.net",
       "strict_min_version": "128.0",
       "strict_max_version": "*",
-      "update_url": "https://raw.githubusercontent.com/wshanks/tbkeys/main/updates.json"
+      "update_url": "https://raw.githubusercontent.com/jelso13/tbkeys/main/updates.json"
     }
   },
   "name": "tbkeys",
