@@ -1,3 +1,17 @@
+# Fork of thunderbird tbkeys
+
+git clone
+make
+install using the build/tbkeys.xpi generated
+
+Essentially a safe marker of the project preventing the auto-update mechanism because it can run arbitrary code.
+
+
+---
+
+
+
+
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
 # <a name="intro"></a>tbkeys
